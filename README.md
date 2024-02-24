@@ -1,9 +1,33 @@
-# C Tic-Tac-Toe-with-minimax-AI by (Alaa Imam, Ismail Mohamed and Ahmed Kamal)
-This is me and my colleagues' project for the Applied Programming course in the Arab Academy for Science and Technology.
-This is a full Tic-Tac-Toe game using C code that contains 3 AI difficulties with the hardest one having been created using the minimax algorithm, as well as a two-player mode.
-The game also contains graphics and music/sfx of our creation.
-The music wav files couldn't be uploaded to github due to their large file sizes, so instead you can download them from here:
-https://www.mediafire.com/file/s0z8kmj6qg8s2g4/Tic_Tac_Toe_music.rar/file
-All the code for the game is available and can be modified: "main.cpp" for the main menu code and "easyai.cpp" "mediumai.cpp" "hardai.cpp" and "twoplayers.cpp" each with its respective code. 
-Run the main.exe file to launch the game.
-Enjoy!
+# Tic-Tac-Toe in C
+
+Tic-Tac-Toe game made in C and C++ for the 'Applied Programming' course in AAST's Computer Engineering curriculum.
+
+# Overview
+
+Tic-Tac-Toe which includes 4 different modes.
+
+- Easy difficulty
+- Medium Difficulty
+- Hard Difficulty (Implemented using Mini-Max algorithm)
+- Two-Player Mode
+
+Game also includes Main Menu done using Win32 API graphics library and manual graphics for the main game in C++.
+
+Game also features original compositions able to be downloaded on [MediaFire](https://www.mediafire.com/file/s0z8kmj6qg8s2g4/Tic_Tac_Toe_music.rar/file).
+
+# Credits
+
+Game Created by [Alaa Imam](https://github.com/AlaaImam), [Ismail Fakhr](https://github.com/IsmailFakhr), and [Ahmed Kamal](https://github.com/AhmadKamal0).
+
+Alaa Imam - Music, C++ Graphics, and General Coding
+
+Ismail Mohamed - Main Menu Graphics and General Coding
+
+Ahmed Kamal - Mini-Max Algorithm Implementation and General Coding
+
+# Note
+
+All codes for the game are available in the repository and can be modified.
+
+- main.cpp for the Main Menu graphics.
+- easyai.cpp, mediumai.cpp, hardai.cpp, and twoplayers.cpp for each mode's code.
