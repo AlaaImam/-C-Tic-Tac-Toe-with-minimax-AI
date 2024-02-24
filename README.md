@@ -15,6 +15,10 @@ Game also includes Main Menu done using Win32 API graphics library and manual gr
 
 Game also features original compositions able to be downloaded on [MediaFire](https://www.mediafire.com/file/s0z8kmj6qg8s2g4/Tic_Tac_Toe_music.rar/file).
 
+# Screenshots
+![image](https://github.com/AlaaImam/-C-Tic-Tac-Toe-with-minimax-AI/assets/98194133/b5a0d26d-44e4-46b4-892d-b8eb6df4b49f)
+![image](https://github.com/AlaaImam/-C-Tic-Tac-Toe-with-minimax-AI/assets/98194133/70d34b86-334d-453a-98c0-f15ac84d8e94)
+
 # Credits
 
 Game Created by [Alaa Imam](https://github.com/AlaaImam), [Ismail Fakhr](https://github.com/IsmailFakhr), and [Ahmed Kamal](https://github.com/AhmadKamal0).
