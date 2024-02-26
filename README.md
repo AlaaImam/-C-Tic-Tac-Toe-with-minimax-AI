@@ -7,7 +7,7 @@ Tic-Tac-Toe game made in C and C++ for the 'Applied Programming' course in AAST'
 Tic-Tac-Toe which includes 4 different modes.
 
 - Easy difficulty
-- Medium Difficulty
+- Medium Difficulty (Implemented by merging Mini-Max algorithm and Random placing)
 - Hard Difficulty (Implemented using Mini-Max algorithm)
 - Two-Player Mode
 
